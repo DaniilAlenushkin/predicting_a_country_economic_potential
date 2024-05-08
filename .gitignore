@@ -2,5 +2,3 @@
 *.pyc
 env
 venv
-test.py
-todo.py
